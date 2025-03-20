@@ -1,1 +1,1 @@
-# learning-pytorch
+# Learning PyTorch for Deep Learning and Neural Networks
